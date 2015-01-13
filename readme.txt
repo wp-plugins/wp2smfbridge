@@ -3,7 +3,7 @@ Contributors: DSR!
 Author URI: https://github.com/xchwarze
 Tags: smf, forums, users, bridge, wordpress
 Requires at least: 2.5
-Tested up to: 4.0	
+Tested up to: 4.1	
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -17,9 +17,10 @@ WP2SMFBridge is a simple one way bridge from Wordpress to Simple Machine Forum (
 This plugin will do these following tasks:
 
 * If a user log in WP, then that user will be logged in SMF.
-* If a user logout in WP, then that user will be logged out SMF.
+* If a user logout in WP, then that user will be logout in SMF.
 * If a user created/register/change password in WP, those actions happen on SMF!
-* Users that are created in SMF can be used once disabled WP plugin
+* Users that are created in SMF can be used once disabled WP plugin.
+* For a full way integration use with SMF2WPBridge plugin.
 
 
 == Installation ==
